@@ -4,8 +4,9 @@
    :caption: KE0124 microbit 传感器套装
 
    README.md
-   docs/index
-   docs/keyestudio/index
+   docs/产品简介
+   docs/产品清单
+   docs/Microbit
    docs/FAQ.md
 
 
